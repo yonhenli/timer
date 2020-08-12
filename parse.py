@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 from scipy import stats
 sns.set(color_codes=True)
 
-filename_host = "o41/1ms/run_1/host.txt"
-filename_did = "o41/1ms/run_1/did.txt"
-filename_vanilla = "o41/1ms/run_1/vanilla.txt"
+filename_host = "d12/1ms/run_1/host.txt"
+filename_did = "d12/1ms/run_1/did.txt"
+filename_vanilla = "d12/1ms/run_1/vanilla.txt"
 
 def parse(filename):
 	i = 0
